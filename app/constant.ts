@@ -1,5 +1,5 @@
 export const OWNER = "fiyen";
-export const REPO = "ChatWeb-LvChao";
+export const REPO = "ChatGPT-Next-Web";
 export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
@@ -38,3 +38,9 @@ export const MIN_SIDEBAR_WIDTH = 230;
 export const NARROW_SIDEBAR_WIDTH = 100;
 
 export const ACCESS_CODE_PREFIX = "ak-";
+
+export const LAST_INPUT_KEY = "last-input";
+
+export const REQUEST_TIMEOUT_MS = 60000;
+
+export const EXPORT_MESSAGE_CLASS_NAME = "export-markdown";
